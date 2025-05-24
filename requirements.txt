@@ -1,0 +1,10 @@
+PySide6
+requests
+simplekml
+utm
+Pillow
+folium
+geopandas 
+earthengine-api
+# google-auth # Often a dependency of earthengine-api
+# rasterio # Optional for GeoTIFF handling
